@@ -1,0 +1,592 @@
+Question,Answer,Label
+What is the fee for BSCS?,The fee for BSCS is <tadmissionfee>.,fee
+What is the fee for BSAI?,The fee for BSAI is <tadmissionfee>.,fee
+What is the fee for BSSE?,The fee for BSSE is <tadmissionfee>.,fee
+How much is the fee for BSCS?,The fee for BSCS is <tadmissionfee>.,fee
+How much is the fee for BSAI?,The fee for BSAI is <tadmissionfee>.,fee
+How much is the fee for BSSE?,The fee for BSSE is <tadmissionfee>.,fee
+What is the cost of BSCS?,The fee for BSCS is <tadmissionfee>.,fee
+What is the cost of BSAI?,The fee for BSAI is <tadmissionfee>.,fee
+What is the cost of BSSE?,The fee for BSSE is <tadmissionfee>.,fee
+How much does BSCS cost?,The fee for BSCS is <tadmissionfee>.,fee
+How much does BSAI cost?,The fee for BSAI is <tadmissionfee>.,fee
+How much does BSSE cost?,The fee for BSSE is <tadmissionfee>.,fee
+What is the price for BSCS?,The fee for BSCS is <tadmissionfee>.,fee
+What is the price for BSAI?,The fee for BSAI is <tadmissionfee>.,fee
+What is the price for BSSE?,The fee for BSSE is <tadmissionfee>.,fee
+How much is charged for BSCS?,The fee for BSCS is <tadmissionfee>.,fee
+How much is charged for BSAI?,The fee for BSAI is <tadmissionfee>.,fee
+How much is charged for BSSE?,The fee for BSSE is <tadmissionfee>.,fee
+What is the fee for FYP project?,The fee for one subject is <fypfee>.,fee
+How much is the fee for the FYP project?,The fee for one subject is <fypfee>.,fee
+What is the cost of the FYP project?,The fee for one subject is <fypfee>.,fee
+How much does the FYP project cost?,The fee for one subject is <fypfee>.,fee
+What is the price for the FYP project?,The fee for one subject is <fypfee>.,fee
+How much is charged for the FYP project?,The fee for one subject is <fypfee>.,fee
+What is the fee per FYP project?,The fee for one subject is <fypfee>.,fee
+How much is the fee for a single FYP project?,The fee for one subject is <fypfee>.,fee
+What is the fee for the final year project?,The fee for one subject is <fypfee>.,fee
+How much is the fee for the final year project (FYP)?,The fee for one subject is <fypfee>.,fee
+What is the fee for one subject?,The fee for one subject is <subjectfee>.,fee
+How much is the fee for one subject?,The fee for one subject is <subjectfee>.,fee
+What is the cost of one subject?,The cost of one subject is <subjectfee>.,fee
+How much does one subject cost?,One subject costs <subjectfee>.,fee
+What is the price for one subject?,The price for one subject is <subjectfee>.,fee
+How much is charged for one subject?,The charge for one subject is <subjectfee>.,fee
+What is the fee per subject?,The fee per subject is <subjectfee>.,fee
+How much is the fee for a single subject?,The fee for a single subject is <subjectfee>.,fee
+What is the fee for one course subject?,The fee for one course subject is <subjectfee>.,fee
+How much is the fee for one academic subject?,The fee for one academic subject is <subjectfee>.,fee
+Does BIIT offer installment plans for fee payment?,"Yes, BIIT allows fee payment through installments.",fee
+Can I pay my fees in installments at BIIT?,"Yes, BIIT allows fee payment through installments.",fee
+Is there an option to pay fees in installments at BIIT?,"Yes, BIIT allows fee payment through installments.",fee
+Does BIIT provide installment options for fee payments?,"Yes, BIIT allows fee payment through installments.",fee
+Can I split my fee payment into installments at BIIT?,"Yes, BIIT allows fee payment through installments.",fee
+Is fee payment in installments available at BIIT?,"Yes, BIIT allows fee payment through installments.",fee
+Does BIIT permit paying fees in installments?,"Yes, BIIT allows fee payment through installments.",fee
+Can I pay my tuition fees in installments at BIIT?,"Yes, BIIT allows fee payment through installments.",fee
+Is there a facility to pay fees in installments at BIIT?,"Yes, BIIT allows fee payment through installments.",fee
+Is there a phased-out payment option for fee payment at BIIT?,"Yes, BIIT allows fee payment through installments.",fee
+Does BIIT allow students to pay fees in segments?,"Yes, BIIT allows fee payment through installments.",fee
+Can I pay my fees in segments at BIIT?,"Yes, BIIT allows fee payment through installments.",fee
+Is there an option to pay fees in segments at BIIT?,"Yes, BIIT allows fee payment through installments.",fee
+Does BIIT offer a segment-based payment plan for fees?,"Yes, BIIT allows fee payment through installments.",fee
+Can I pay my fees in segment-based payments at BIIT?,"Yes, BIIT allows fee payment through installments.",fee
+Is there a segment-based payment option for fee payment at BIIT?,"Yes, BIIT allows fee payment through installments.",fee
+Does BIIT provide a staggered payment plan for fees?,"Yes, BIIT allows fee payment through installments.",fee
+Can I pay my fees in staggered payments at BIIT?,"Yes, BIIT allows fee payment through installments.",fee
+Is there a staggered payment option for fee payment at BIIT?,"Yes, BIIT allows fee payment through installments.",fee
+Does BIIT allow students to pay fees in stages?,"Yes, BIIT allows fee payment through installments.",fee
+How many number of installments are allowed for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+What is the maximum number of installments for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+How many installments can I pay my fees in?,The student can pay fee through <tinstallement> installments.,fee
+What is the installment limit for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+How many installments are permitted for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+Can I pay my fees in installments.,The student can pay fee through <tinstallement> installments.,fee
+What is the number of installments allowed for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+How many installments are available for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+What is the total number of installments for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+How many installments can I choose for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+What is the installment count for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+How many installments are offered for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+What is the installment plan limit for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+How many installments are supported for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+What is the installment option limit for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+How many installments can I opt for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+What is the maximum installment count for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+How many installments are allowed for paying fees?,The student can pay fee through <tinstallement> installments.,fee
+What is the number of installments for paying fees?,The student can pay fee through <tinstallement> installments.,fee
+How many installments can I use for fee payment?,The student can pay fee through <tinstallement> installments.,fee
+What is the installment limit for paying fees?,The student can pay fee through <tinstallement> installments.,fee
+How many installments are permitted for paying fees?,The student can pay fee through <tinstallement> installments.,fee
+What is the total number of installments for paying fees?,The student can pay fee through <tinstallement> installments.,fee
+How many installments are available for paying fees?,The student can pay fee through <tinstallement> installments.,fee
+What is the installment count for paying fees?,The student can pay fee through <tinstallement> installments.,fee
+How many installments are offered for paying fees?,The student can pay fee through <tinstallement> installments.,fee
+What is the installment plan limit for paying fees?,The student can pay fee through <tinstallement> installments.,fee
+How many installments are supported for paying fees?,The student can pay fee through <tinstallement> installments.,fee
+What is the installment option limit for paying fees?,The student can pay fee through <tinstallement> installments.,fee
+How many installments can I opt for paying fees?,The student can pay fee through <tinstallement> installments.,fee
+What is the maximum installment count for paying fees?,The student can pay fee through <tinstallement> installments.,fee
+What is the total fee payable at the time of admission to BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the admission fee at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee for admission to BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much do I need to pay for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the admission fee amount at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee required for admission to BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the initial fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee structure for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid during admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the upfront fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the one-time fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee payable at the time of enrollment at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the enrollment fee at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee for enrolling at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid during enrollment at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the initial payment for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid at the time of joining BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the joining fee at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee for joining BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid at the time of registration at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the registration fee at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee for registering at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid during registration at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the upfront payment for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid at the time of admission confirmation at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the confirmation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee for confirming admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid during admission confirmation at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the initial deposit for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the deposit fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid as a deposit during admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the non-refundable fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the non-refundable admission fee at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid as a non-refundable amount at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the processing fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the processing fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for processing admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the application fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the application fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for applying to BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the acceptance fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the acceptance fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for accepting admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the seat booking fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the seat booking fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for booking a seat at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the commitment fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the commitment fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid as a commitment for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the initial tuition fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the initial tuition fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid as initial tuition at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the first installment fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the first installment fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid as the first installment at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the down payment fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the down payment fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid as a down payment at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the security fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the security fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid as security at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the administrative fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the administrative fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for administrative purposes at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the orientation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the orientation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for orientation at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the matriculation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the matriculation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for matriculation at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the induction fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the induction fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for induction at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the commencement fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the commencement fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for commencement at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the onboarding fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the onboarding fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for onboarding at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the initiation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the initiation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for initiation at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the enrollment confirmation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the enrollment confirmation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for confirming enrollment at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the program initiation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the program initiation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for program initiation at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the course initiation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the course initiation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for course initiation at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the academic initiation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the academic initiation fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for academic initiation at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the institutional fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the institutional fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for institutional purposes at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the facility fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the facility fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for facilities at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the resource fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the resource fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for resources at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the infrastructure fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the infrastructure fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for infrastructure at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the development fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the development fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for development at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the technology fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the technology fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for technology at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the library fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the library fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for library access at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the lab fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the lab fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for lab access at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the workshop fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the workshop fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for workshops at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the seminar fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the seminar fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for seminars at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+How much is the conference fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the conference fee for admission at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the fee to be paid for conferences at BIIT?,The student is required to pay the <tadmissionfee> at the time of admission.,fee
+What is the semester fee at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+How much is the semester fee at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+What is the fee for each semester at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+How much do I need to pay per semester at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+What is the fee structure per semester at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+How much is the tuition fee per semester at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+What is the fee payable per semester at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+How much is the academic fee per semester at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+What is the fee for one semester at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+How much is the fee for a single semester at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+What is the fee for each academic semester at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+How much is the fee for every semester at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+What is the fee for the semester program at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+How much is the fee for the semester course at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+What is the fee for the semester term at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+How much is the fee for the semester session at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+What is the fee for the semester period at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+How much is the fee for the semester duration at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+What is the fee for the semester cycle at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+How much is the fee for the semester phase at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+What is the fee for the semester interval at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+How much is the fee for the semester segment at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+What is the fee for the semester portion at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+How much is the fee for the semester installment at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+What is the fee for the semester payment at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+How much is the fee for the semester charge at BIIT?,The student is required to pay the <semesterfee> per semester.,fee
+What payment methods are accepted for the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+How can I pay the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+What are the payment options for the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+How do I pay the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+What is the process to pay the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Can I pay the admission fee online at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Is online payment accepted for the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+What is the mode of payment for the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+How is the admission fee paid at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+What are the accepted payment methods for admission at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Can I pay the admission fee via bank transfer at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Is bank transfer accepted for the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+What is the bank account details for paying the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+How do I get the bank details for paying the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Can I pay the admission fee through a demand draft at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Is demand draft accepted for the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+What is the process to pay the admission fee via demand draft at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Can I pay the admission fee through a cheque at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Is cheque payment accepted for the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+What is the process to pay the admission fee via cheque at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Can I pay the admission fee in cash at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Is cash payment accepted for the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+What is the process to pay the admission fee in cash at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Can I pay the admission fee through a credit card at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Is credit card payment accepted for the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+What is the process to pay the admission fee via credit card at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Can I pay the admission fee through a debit card at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Is debit card payment accepted for the admission fee at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+What is the process to pay the admission fee via debit card at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Can I pay the admission fee through UPI at BIIT?,The fee can be paid through the mentioned bank on the challan like <bank>.,fee
+Is any scholarship available for the students?,Yes scholarships are available for students based on need and performance.,fee
+Are there scholarships available for students?,Yes scholarships are available for students based on need and performance.,fee
+Does BIIT offer scholarships for students?,Yes scholarships are available for students based on need and performance.,fee
+Can students apply for scholarships at BIIT?,Yes scholarships are available for students based on need and performance.,fee
+Are there need-based scholarships at BIIT?,Yes scholarships are available for students based on need and performance.,fee
+Are there performance-based scholarships at BIIT?,Yes scholarships are available for students based on need and performance.,fee
+What types of scholarships are available at BIIT?,Yes scholarships are available for students based on need and performance.,fee
+Are there financial aid options for students at BIIT?,Yes scholarships are available for students based on need and performance.,fee
+Can I get a scholarship at BIIT?,Yes scholarships are available for students based on need and performance.,fee
+Are there merit-based scholarships at BIIT?,Yes scholarships are available for students based on need and performance.,fee
+Does BIIT provide scholarships for needy students?,Yes scholarships are available for students based on need and performance.,fee
+Are there scholarships for high-performing students at BIIT?,Yes scholarships are available for students based on need and performance.,fee
+Can I apply for a need-based scholarship at BIIT?,Yes scholarships are available for students based on need and performance.,fee
+Can I apply for a performance-based scholarship at BIIT?,Yes scholarships are available for students based on need and performance.,fee
+Are there any scholarships for students at BIIT?,Yes scholarships are available for students based on need and performance.,fee
+Does BIIT offer financial assistance to students?,Yes scholarships are available for students based on need and performance.,fee
+Are there scholarships for academically excellent students at BIIT?,Yes scholarships are available for students based on need and performance.,fee
+Can I get financial support through scholarships at BIIT?,Yes scholarships are available for students based on need and performance.,fee
+Are there scholarships for economically disadvantaged students at BIIT?,Yes scholarships are available for students based on need and performance.,fee
+Does BIIT have scholarships for students with good academic records?,Yes scholarships are available for students based on need and performance.,fee
+What is the criteria of the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What are the requirements for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+How can I qualify for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What marks are required for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What percentage is needed for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What is the eligibility for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What are the criteria to get the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What is the minimum percentage for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+How much percentage is required for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What are the academic requirements for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What is the cutoff for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What marks do I need for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What is the academic criteria for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What percentage do I need to apply for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What is the minimum marks required for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What are the qualifications for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What is the academic performance requirement for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What is the grade requirement for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What is the performance criteria for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+What is the academic standard for the merit-based scholarship?,The student must have <scriteria>% marks.,fee
+How can I avail the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+What is the process to get the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+How do I apply for the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+What are the steps to avail the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+How can I qualify for the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+What is the procedure to obtain the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+How do I get the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+What is required to avail the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+How can I secure the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+What is the eligibility process for the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+How do I become eligible for the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+What are the requirements to avail the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+How can I apply for financial aid through the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+What is the application process for the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+How do I start the process for the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+What steps are involved in getting the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+How can I get financial support through the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+What is the method to avail the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+How do I qualify for financial assistance through the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+What is the way to apply for the need-based scholarship?,You can apply for the need-based scholarship by completing the required procedures and passing an interview.,fee
+What is the admission criteria?,The student must have <intermarks> marks in <degree> to be eligible for admission.,admission
+How can I get admission in this institute?,To be eligible for admission  the student must score <intermarks> marks in <degree>.,admission
+What is the merit to get admission?,Admission requires the student to have <intermarks> marks in <degree>.,admission
+What are the eligibility criteria for admission?,The student needs <intermarks> marks in <degree> to qualify for admission.,admission
+How do I qualify for admission?,To qualify  the student must achieve <intermarks> marks in <degree>.,admission
+What marks are required for admission?,The student must secure <intermarks> marks in <degree> for admission.,admission
+What percentage is needed for admission?,The student must have <intermarks> marks in <degree> to be considered for admission.,admission
+What is the minimum marks required for admission?,A minimum of <intermarks> marks in <degree> is required for admission.,admission
+What are the academic requirements for admission?,The student must have <intermarks> marks in <degree> to meet the academic requirements.,admission
+What is the cutoff for admission?,The cutoff for admission is <intermarks> marks in <degree>.,admission
+What is the admission process?,The admission process requires the student to have <intermarks> marks in <degree>.,admission
+How can I apply for admission?,To apply  the student must have <intermarks> marks in <degree>.,admission
+What are the steps to get admission?,The student must have <intermarks> marks in <degree> to proceed with admission.,admission
+What is the merit-based admission criteria?,For merit-based admission  the student must have <intermarks> marks in <degree>.,admission
+What is the academic criteria for admission?,The academic criteria require <intermarks> marks in <degree> for admission.,admission
+What is the minimum percentage for admission?,The minimum percentage required is <intermarks> marks in <degree>.,admission
+What is the eligibility for admission?,Eligibility requires the student to have <intermarks> marks in <degree>.,admission
+What are the qualifications for admission?,The student must have <intermarks> marks in <degree> to qualify.,admission
+What is the academic standard for admission?,The academic standard is <intermarks> marks in <degree> for admission.,admission
+What is the performance criteria for admission?,The performance criteria require <intermarks> marks in <degree>.,admission
+What is the grade requirement for admission?,The student must have <intermarks> marks in <degree> to meet the grade requirement.,admission
+What is the academic performance requirement for admission?,The student must achieve <intermarks> marks in <degree> for admission.,admission
+What is the admission eligibility criteria?,The eligibility criteria require <intermarks> marks in <degree>.,admission
+What is the admission qualification?,The qualification for admission is <intermarks> marks in <degree>.,admission
+What is the admission requirement?,The requirement for admission is <intermarks> marks in <degree>.,admission
+What is the admission standard?,The standard for admission is <intermarks> marks in <degree>.,admission
+What is the admission cutoff marks?,The cutoff marks for admission are <intermarks> in <degree>.,admission
+What is the admission percentage requirement?,The percentage requirement is <intermarks> marks in <degree>.,admission
+What is the admission merit criteria?,The merit criteria require <intermarks> marks in <degree>.,admission
+What is the admission academic criteria?,The academic criteria require <intermarks> marks in <degree>.,admission
+What is the admission performance criteria?,The performance criteria require <intermarks> marks in <degree>.,admission
+What is the admission grade criteria?,The grade criteria require <intermarks> marks in <degree>.,admission
+What is the admission academic performance criteria?,The academic performance criteria require <intermarks> marks in <degree>.,admission
+What is the admission academic standard?,The academic standard is <intermarks> marks in <degree>.,admission
+What is the admission academic requirement?,The academic requirement is <intermarks> marks in <degree>.,admission
+What is the admission academic qualification?,The academic qualification is <intermarks> marks in <degree>.,admission
+What is the admission academic performance requirement?,The academic performance requirement is <intermarks> marks in <degree>.,admission
+What is the admission academic performance standard?,The academic performance standard is <intermarks> marks in <degree>.,admission
+What is the admission academic performance qualification?,The academic performance qualification is <intermarks> marks in <degree>.,admission
+What is the last date to apply for admission?,The last date to apply for admission is <lastdate>.,admission
+When is the deadline to apply for admission?,The deadline to apply for admission is <lastdate>.,admission
+What is the application deadline for admission?,The application deadline for admission is <lastdate>.,admission
+What is the final date to submit the admission application?,The final date to submit the admission application is <lastdate>.,admission
+What is the closing date for admission applications?,The closing date for admission applications is <lastdate>.,admission
+What is the cutoff date for admission applications?,The cutoff date for admission applications is <lastdate>.,admission
+What is the last day to submit the admission form?,The last day to submit the admission form is <lastdate>.,admission
+What is the final deadline for admission applications?,The final deadline for admission applications is <lastdate>.,admission
+What is the last date to apply for enrollment?,The last date to apply for enrollment is <lastdate>.,admission
+What is the last date to submit the admission form?,The last date to submit the admission form is <lastdate>.,admission
+What is the deadline for submitting the admission application?,The deadline for submitting the admission application is <lastdate>.,admission
+What is the last date to apply for enrollment in the program?,The last date to apply for enrollment in the program is <lastdate>.,admission
+What is the final date to apply for admission to the institute?,The final date to apply for admission to the institute is <lastdate>.,admission
+What is the last date to apply for the course?,The last date to apply for the course is <lastdate>.,admission
+What is the last date to apply for the program?,The last date to apply for the program is <lastdate>.,admission
+What is the last date to apply for the degree?,The last date to apply for the degree is <lastdate>.,admission
+What is the last date to apply for the diploma?,The last date to apply for the diploma is <lastdate>.,admission
+What is the last date to apply for the certificate?,The last date to apply for the certificate is <lastdate>.,admission
+What is the last date to apply for the undergraduate program?,The last date to apply for the undergraduate program is <lastdate>.,admission
+What is the last date to apply for the postgraduate program?,The last date to apply for the postgraduate program is <lastdate>.,admission
+What is the last date to apply for the master's program?,The last date to apply for the master's program is <lastdate>.,admission
+What is the last date to apply for the bachelor's program?,The last date to apply for the bachelor's program is <lastdate>.,admission
+What is the last date to apply for the PhD program?,The last date to apply for the PhD program is <lastdate>.,admission
+What is the last date to apply for the doctoral program?,The last date to apply for the doctoral program is <lastdate>.,admission
+What is the last date to apply for the research program?,The last date to apply for the research program is <lastdate>.,admission
+What is the last date to apply for the professional program?,The last date to apply for the professional program is <lastdate>.,admission
+What is the last date to apply for the executive program?,The last date to apply for the executive program is <lastdate>.,admission
+What is the last date to apply for the online program?,The last date to apply for the online program is <lastdate>.,admission
+What is the last date to apply for the distance learning program?,The last date to apply for the distance learning program is <lastdate>.,admission
+What is the last date to apply for the part-time program?,The last date to apply for the part-time program is <lastdate>.,admission
+What is the last date to apply for the full-time program?,The last date to apply for the full-time program is <lastdate>.,admission
+What is the last date to apply for the evening program?,The last date to apply for the evening program is <lastdate>.,admission
+What is the last date to apply for the weekend program?,The last date to apply for the weekend program is <lastdate>.,admission
+What is the last date to apply for the summer program?,The last date to apply for the summer program is <lastdate>.,admission
+What is the last date to apply for the winter program?,The last date to apply for the winter program is <lastdate>.,admission
+What is the last date to apply for the spring program?,The last date to apply for the spring program is <lastdate>.,admission
+What is the last date to apply for the fall program?,The last date to apply for the fall program is <lastdate>.,admission
+What is the last date to apply for the semester program?,The last date to apply for the semester program is <lastdate>.,admission
+What is the last date to apply for the trimester program?,The last date to apply for the trimester program is <lastdate>.,admission
+What is the last date to apply for the quarter program?,The last date to apply for the quarter program is <lastdate>.,admission
+What is the last date to apply for the annual program?,The last date to apply for the annual program is <lastdate>.,admission
+What is the last date to apply for the short-term program?,The last date to apply for the short-term program is <lastdate>.,admission
+What is the last date to apply for the long-term program?,The last date to apply for the long-term program is <lastdate>.,admission
+What is the last date to apply for the intensive program?,The last date to apply for the intensive program is <lastdate>.,admission
+What is the last date to apply for the accelerated program?,The last date to apply for the accelerated program is <lastdate>.,admission
+What is the last date to apply for the modular program?,The last date to apply for the modular program is <lastdate>.,admission
+What is the last date to apply for the credit program?,The last date to apply for the credit program is <lastdate>.,admission
+What is the last date to apply for the non-credit program?,The last date to apply for the non-credit program is <lastdate>.,admission
+What is the last date to apply for the certificate program?,The last date to apply for the certificate program is <lastdate>.,admission
+What is the last date to apply for the diploma program?,The last date to apply for the diploma program is <lastdate>.,admission
+What is the start date to apply for admission?,The start date to apply for admission is <startdate>.,admission
+When does the admission application process begin?,The admission application process begins on <startdate>.,admission
+What is the opening date for admission applications?,The opening date for admission applications is <startdate>.,admission
+When can I start applying for admission?,You can start applying for admission from <startdate>.,admission
+What is the first day to apply for admission?,The first day to apply for admission is <startdate>.,admission
+When does the admission application window open?,The admission application window opens on <startdate>.,admission
+What is the beginning date for admission applications?,The beginning date for admission applications is <startdate>.,admission
+When does the admission application period start?,The admission application period starts on <startdate>.,admission
+What is the commencement date for admission applications?,The commencement date for admission applications is <startdate>.,admission
+When does the admission application cycle begin?,The admission application cycle begins on <startdate>.,admission
+What is the starting date for admission applications?,The starting date for admission applications is <startdate>.,admission
+When does the admission application process start?,The admission application process starts on <startdate>.,admission
+What is the initial date to apply for admission?,The initial date to apply for admission is <startdate>.,admission
+When does the admission application submission start?,The admission application submission starts on <startdate>.,admission
+What is the kickoff date for admission applications?,The kickoff date for admission applications is <startdate>.,admission
+When does the admission application registration begin?,The admission application registration begins on <startdate>.,admission
+What is the launch date for admission applications?,The launch date for admission applications is <startdate>.,admission
+When does the admission application enrollment start?,The admission application enrollment starts on <startdate>.,admission
+What is the initiation date for admission applications?,The initiation date for admission applications is <startdate>.,admission
+When does the admission application intake begin?,The admission application intake begins on <startdate>.,admission
+What is the starting point for admission applications?,The starting point for admission applications is <startdate>.,admission
+When does the admission application process commence?,The admission application process commences on <startdate>.,admission
+What is the opening day for admission applications?,The opening day for admission applications is <startdate>.,admission
+When does the admission application period open?,The admission application period opens on <startdate>.,admission
+What is the first date to submit the admission application?,The first date to submit the admission application is <startdate>.,admission
+When does the admission application form become available?,The admission application form becomes available on <startdate>.,admission
+What is the earliest date to apply for admission?,The earliest date to apply for admission is <startdate>.,admission
+When does the admission application portal open?,The admission application portal opens on <startdate>.,admission
+What is the starting point for admission enrollment?,The starting point for admission enrollment is <startdate>.,admission
+When does the admission application system open?,The admission application system opens on <startdate>.,admission
+What is the first day to submit the admission form?,The first day to submit the admission form is <startdate>.,admission
+When does the admission application process go live?,The admission application process goes live on <startdate>.,admission
+What is the starting date for admission registration?,The starting date for admission registration is <startdate>.,admission
+When does the admission application process kick off?,The admission application process kicks off on <startdate>.,admission
+What is the first day to apply for enrollment?,The first day to apply for enrollment is <startdate>.,admission
+When does the admission application process initiate?,The admission application process initiates on <startdate>.,admission
+What is the starting date for admission submissions?,The starting date for admission submissions is <startdate>.,admission
+When does the admission application process launch?,The admission application process launches on <startdate>.,admission
+What is the first day to apply for the program?,The first day to apply for the program is <startdate>.,admission
+When does the admission application process begin for the course?,The admission application process begins for the course on <startdate>.,admission
+What is the starting date for the admission cycle?,The starting date for the admission cycle is <startdate>.,admission
+When does the admission application process start for the degree?,The admission application process starts for the degree on <startdate>.,admission
+What is the first day to apply for the diploma?,The first day to apply for the diploma is <startdate>.,admission
+When does the admission application process begin for the certificate?,The admission application process begins for the certificate on <startdate>.,admission
+What is the starting date for the undergraduate program applications?,The starting date for the undergraduate program applications is <startdate>.,admission
+When does the admission application process start for the postgraduate program?,The admission application process starts for the postgraduate program on <startdate>.,admission
+What is the first day to apply for the master's program?,The first day to apply for the master's program is <startdate>.,admission
+When does the admission application process begin for the bachelor's program?,The admission application process begins for the bachelor's program on <startdate>.,admission
+What is the starting date for the PhD program applications?,The starting date for the PhD program applications is <startdate>.,admission
+When does the admission application process start for the doctoral program?,The admission application process starts for the doctoral program on <startdate>.,admission
+What are the start and end dates for admission?,The admission starts from <startdate> and ends on <lastdate>.,admission
+When does the admission period begin and end?,The admission period begins on <startdate> and ends on <lastdate>.,admission
+What is the admission application window?,The admission application window is from <startdate> to <lastdate>.,admission
+What are the admission application dates?,The admission application dates are from <startdate> to <lastdate>.,admission
+What is the duration of the admission process?,The admission process runs from <startdate> to <lastdate>.,admission
+What are the opening and closing dates for admission?,The admission opens on <startdate> and closes on <lastdate>.,admission
+When does the admission cycle start and end?,The admission cycle starts on <startdate> and ends on <lastdate>.,admission
+What are the admission start and deadline dates?,The admission starts on <startdate> and the deadline is <lastdate>.,admission
+What is the admission application period?,The admission application period is from <startdate> to <lastdate>.,admission
+What are the admission application start and end dates?,The admission application starts on <startdate> and ends on <lastdate>.,admission
+When does the admission application process begin and end?,The admission application process begins on <startdate> and ends on <lastdate>.,admission
+What are the admission enrollment dates?,The admission enrollment dates are from <startdate> to <lastdate>.,admission
+What is the admission application timeline?,The admission application timeline is from <startdate> to <lastdate>.,admission
+What are the admission registration dates?,The admission registration dates are from <startdate> to <lastdate>.,admission
+When does the admission intake start and finish?,The admission intake starts on <startdate> and finishes on <lastdate>.,admission
+What are the admission submission dates?,The admission submission dates are from <startdate> to <lastdate>.,admission
+What is the admission application schedule?,The admission application schedule is from <startdate> to <lastdate>.,admission
+What are the admission application opening and closing dates?,The admission application opens on <startdate> and closes on <lastdate>.,admission
+When does the admission process start and conclude?,The admission process starts on <startdate> and concludes on <lastdate>.,admission
+What are the admission application start and deadline dates?,The admission application starts on <startdate> and the deadline is <lastdate>.,admission
+What documents are required for admission?,The required documents for admission are <documents>.,admission
+What are the necessary documents for admission?,The necessary documents for admission are <documents>.,admission
+What paperwork is needed for admission?,The paperwork needed for admission includes <documents>.,admission
+What are the admission document requirements?,The admission document requirements are <documents>.,admission
+What documents do I need to submit for admission?,You need to submit <documents> for admission.,admission
+What are the mandatory documents for admission?,The mandatory documents for admission are <documents>.,admission
+What documents should I prepare for admission?,You should prepare <documents> for admission.,admission
+What are the supporting documents for admission?,The supporting documents for admission are <documents>.,admission
+What documents are needed to apply for admission?,The documents needed to apply for admission are <documents>.,admission
+What are the required paperwork for admission?,The required paperwork for admission includes <documents>.,admission
+What documents must I provide for admission?,You must provide <documents> for admission.,admission
+What are the essential documents for admission?,The essential documents for admission are <documents>.,admission
+What documents are compulsory for admission?,The compulsory documents for admission are <documents>.,admission
+What are the admission application documents?,The admission application documents are <documents>.,admission
+What documents are part of the admission process?,The documents part of the admission process are <documents>.,admission
+What are the documents to submit for admission?,The documents to submit for admission are <documents>.,admission
+What documents are included in the admission requirements?,The documents included in the admission requirements are <documents>.,admission
+What are the admission file requirements?,The admission file requirements include <documents>.,admission
+What documents are needed for the admission application?,The documents needed for the admission application are <documents>.,admission
+What are the documents required to complete admission?,The documents required to complete admission are <documents>.,admission
+What programs do you offer?,We offer a 4-year <program>.,admission
+What courses are available?,We offer a 4-year <program>.,admission
+What degrees do you provide?,We offer a 4-year <program>.,admission
+What academic programs are offered?,We offer a 4-year <program>.,admission
+What study options are available?,We offer a 4-year <program>.,admission
+What educational programs do you have?,We offer a 4-year <program>.,admission
+What are the available programs?,We offer a 4-year <program>.,admission
+What programs can I enroll in?,We offer a 4-year <program>.,admission
+What are the program offerings?,We offer a 4-year <program>.,admission
+What are the available courses?,We offer a 4-year <program>.,admission
+What are the degree programs?,We offer a 4-year <program>.,admission
+What are the study programs?,We offer a 4-year <program>.,admission
+What are the academic offerings?,We offer a 4-year <program>.,admission
+What programs are available for enrollment?,We offer a 4-year <program>.,admission
+What are the educational offerings?,We offer a 4-year <program>.,admission
+What programs can I apply for?,We offer a 4-year <program>.,admission
+What are the available degree options?,We offer a 4-year <program>.,admission
+What are the program options?,We offer a 4-year <program>.,admission
+What are the available academic programs?,We offer a 4-year <program>.,admission
+What are the course offerings?,We offer a 4-year <program>.,admission
+What programs are offered at your institute?,We offer a 4-year <program>.,admission
+What are the available study options?,We offer a 4-year <program>.,admission
+What are the degree options available?,We offer a 4-year <program>.,admission
+What are the academic programs available?,We offer a 4-year <program>.,admission
+What are the educational programs available?,We offer a 4-year <program>.,admission
+What are the available undergraduate programs?,We offer a 4-year <program>.,admission
+What are the available postgraduate programs?,We offer a 4-year <program>.,admission
+What are the available diploma programs?,We offer a 4-year <program>.,admission
+What are the available certificate programs?,We offer a 4-year <program>.,admission
+What are the available professional programs?,We offer a 4-year <program>.,admission
+What are the available executive programs?,We offer a 4-year <program>.,admission
+What are the available online programs?,We offer a 4-year <program>.,admission
+What are the available distance learning programs?,We offer a 4-year <program>.,admission
+What are the available part-time programs?,We offer a 4-year <program>.,admission
+What are the available full-time programs?,We offer a 4-year <program>.,admission
+What are the available evening programs?,We offer a 4-year <program>.,admission
+What are the available weekend programs?,We offer a 4-year <program>.,admission
+What are the available summer programs?,We offer a 4-year <program>.,admission
+What are the available winter programs?,We offer a 4-year <program>.,admission
+What are the available spring programs?,We offer a 4-year <program>.,admission
+What are the available fall programs?,We offer a 4-year <program>.,admission
+What are the available semester programs?,We offer a 4-year <program>.,admission
+What are the available trimester programs?,We offer a 4-year <program>.,admission
+What are the available quarter programs?,We offer a 4-year <program>.,admission
+What are the available annual programs?,We offer a 4-year <program>.,admission
+What are the available short-term programs?,We offer a 4-year <program>.,admission
+What are the available long-term programs?,We offer a 4-year <program>.,admission
+What are the available intensive programs?,We offer a 4-year <program>.,admission
+What are the available accelerated programs?,We offer a 4-year <program>.,admission
+What are the available modular programs?,We offer a 4-year <program>.,admission
+Do you offer BSCS?,Yes we offer 4-year <program> programs.,admission
+Do you offer BSSE?,Yes we offer 4-year <program> programs.,admission
+Do you offer BSAI?,Yes we offer 4-year <program> programs.,admission
+Is BSCS available at your institute?,Yes we offer 4-year <program> programs.,admission
+Is BSSE available at your institute?,Yes we offer 4-year <program> programs.,admission
+Is BSAI available at your institute?,Yes we offer 4-year <program> programs.,admission
+Can I enroll in BSCS at your institute?,Yes we offer 4-year <program> programs.,admission
+Can I enroll in BSSE at your institute?,Yes we offer 4-year <program> programs.,admission
+Can I enroll in BSAI at your institute?,Yes we offer 4-year <program> programs.,admission
+Is the BSCS program offered here?,Yes we offer 4-year <program> programs.,admission
+Is the BSSE program offered here?,Yes we offer 4-year <program> programs.,admission
+Is the BSAI program offered here?,Yes we offer 4-year <program> programs.,admission
+Do you have a BSCS program?,Yes we offer 4-year <program> programs.,admission
+Do you have a BSSE program?,Yes we offer 4-year <program> programs.,admission
+Do you have a BSAI program?,Yes we offer 4-year <program> programs.,admission
+Is BSCS part of your program offerings?,Yes we offer 4-year <program> programs.,admission
+Is BSSE part of your program offerings?,Yes we offer 4-year <program> programs.,admission
+Is BSAI part of your program offerings?,Yes we offer 4-year <program> programs.,admission
+Can I apply for BSCS at your institute?,Yes we offer 4-year <program> programs.,admission
+Can I apply for BSSE at your institute?,Yes we offer 4-year <program> programs.,admission
+Can I apply for BSAI at your institute?,Yes we offer 4-year <program> programs.,admission
+Is BSCS one of your programs?,Yes we offer 4-year <program> programs.,admission
+Is BSSE one of your programs?,Yes we offer 4-year <program> programs.,admission
+Is BSAI one of your programs?,Yes we offer 4-year <program> programs.,admission
+Do you provide a BSCS degree?,Yes we offer 4-year <program> programs.,admission
+Do you provide a BSSE degree?,Yes we offer 4-year <program> programs.,admission
+Do you provide a BSAI degree?,Yes we offer 4-year <program> programs.,admission
+Is BSCS included in your program list?,Yes we offer 4-year <program> programs.,admission
+Is BSSE included in your program list?,Yes we offer 4-year <program> programs.,admission
+Is BSAI included in your program list?,Yes we offer 4-year <program> programs.,admission
