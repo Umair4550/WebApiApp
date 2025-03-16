@@ -5,15 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d70016d4-9586-4c1a-9caf-7e15b65d4f50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ChatBot Api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controllers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Controllers/BertController.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Controllers/category_controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Controllers/chat_controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Controllers/person_controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Controllers/program_controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Controllers/session_controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Models/BertModel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Models/DbModels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/routes/BertRoutrs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/routes/person_routes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/run.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,23 +34,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Umair4550"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Umair4550/WebApiApp",
+    "accountId": "2ac6b380-bbdb-48c2-ad95-f74de6423947"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2qRU12nvxNdt9IVXugtlq71Y0qG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/hp/PycharmProjects/ChatBot Api"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/PycharmProjects/ChatBot Api&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hp\PycharmProjects\ChatBot Api" />
