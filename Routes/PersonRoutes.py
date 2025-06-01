@@ -32,6 +32,13 @@ def get_person_by_id(person_id):
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
+@person_bp.route('/person/login', methods=['POST'])
+def login():
+    try:
+        return PersonController.login_user()
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
 # Update person by ID
 @person_bp.route('/person/<int:person_id>', methods=['PUT'])
 def update_person(person_id):

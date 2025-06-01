@@ -28,7 +28,6 @@
 # np.save("label_texts.npy", np.array(label_texts))
 #
 # print("Model training completed! Saved embeddings, answers, and labels for fast retrieval.")
-
 from flask import Flask, request, jsonify
 import numpy as np
 import faiss
@@ -36,14 +35,14 @@ from sentence_transformers import SentenceTransformer
 import pandas as pd
 
 # Load the dataset
-df = pd.read_csv(r"C:\Users\hp\PycharmProjects\ChatBot Api\Dataset\final question and answer v1.csv")  # Update with actual file path
+df = pd.read_csv(r"C:\Users\hp\FYP Python Work\ChatBot Api\Dataset\final question and answer v1.csv")  # Update with actual file path
 
 # Load the pre-trained BERT model
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # Load stored FAISS index and question texts
-index = faiss.read_index(r"C:\Users\hp\PycharmProjects\ChatBot Api\Models\ModelEmbedding\question_embeddings.index")
-question_texts = np.load(r"C:\Users\hp\PycharmProjects\ChatBot Api\Models\ModelEmbedding\question_texts.npy", allow_pickle=True)
+index = faiss.read_index(r"C:\Users\hp\FYP Python Work\ChatBot Api\Models\ModelEmbedding\question_embeddings.index")
+question_texts = np.load(r"C:\Users\hp\FYP Python Work\ChatBot Api\Models\ModelEmbedding\question_texts.npy", allow_pickle=True)
 
 # Initialize Flask app
 app = Flask(__name__)

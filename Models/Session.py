@@ -7,11 +7,13 @@ class Session(db.Model):
     title = db.Column(db.String(90), nullable=True)
     isDeleted = db.Column(db.Boolean, default=False, nullable=False)  # Matches BIT NOT NULL DEFAULT 0
     chats = db.relationship('Chat', backref='session', lazy=True)
+    isActive=db.Column(db.Boolean, default=False, nullable=False)
 
     def as_dict(self):
         return {
             'id': self.id,
             'title': self.title,
-            'isDeleted': self.isDeleted
+            'isDeleted': self.isDeleted,
+            'isActive':self.isActive
         }
 

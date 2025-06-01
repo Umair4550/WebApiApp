@@ -20,6 +20,16 @@ def add_session():
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
+@session_bp.route('/session/current', methods=['GET'])
+def current_session():
+    try:
+        return SessionController.get_current_session()
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+@session_bp.route('/session/activate/<int:session_id>', methods=['PUT'])
+def activate(session_id):
+    return SessionController.set_active_session(session_id)
+
 # Route to get a session by ID
 @session_bp.route('/session/<int:sid>', methods=['GET'])
 def get_session_by_id(sid):

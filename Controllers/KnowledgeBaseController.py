@@ -11,25 +11,25 @@ class KnowledgeBaseController:
     def add_entry():
         try:
             data = request.json
-            # Validate required fields
+
             if not all(key in data for key in ['key', 'value']):
                 return jsonify({'error': 'Missing required fields: Key and Value'}), 400
 
             new_entry = KnowledgeBase(
                 key=data.get('key'),
                 value=data.get('value'),
-             session_id=data.get('session_id')
+
             )
             db.session.add(new_entry)
             db.session.commit()
-            return jsonify({'message': 'Entry added successfully!', 'entry': new_entry.as_dict()}), 201
+            return jsonify({'message': 'Entry added successfully!'}), 201
         except Exception as e:
             return jsonify({'error': f"Failed to add entry: {str(e)}"}), 500
 
     @staticmethod
     def get_all_entries():
         try:
-            entries = KnowledgeBase.query.all()
+            entries = KnowledgeBase.query.filter_by(isDeleted=False)
             return jsonify([entry.as_dict() for entry in entries])
         except Exception as e:
             return jsonify({'error': f"Failed to fetch entries: {str(e)}"}), 500

@@ -37,10 +37,10 @@ def update_entry(kbid):
         return jsonify({'error': str(e)}), 500
 
 # Route to delete a knowledge base entry by ID
-@knowledge_base_bp.route('/knowledgeBase/<int:kbid>', methods=['DELETE'])
-def delete_entry(kbid):
+@knowledge_base_bp.route('/knowledgeBase/<int:bid>', methods=['DELETE'])
+def delete_entry(bid):
     try:
-        return KnowledgeBaseController.delete_entry(kbid)
+        return KnowledgeBaseController.delete_entry(bid)
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 @knowledge_base_bp.route('/process_answer', methods=['GET'])

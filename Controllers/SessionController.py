@@ -1,4 +1,6 @@
 from flask import jsonify, request
+from requests import session
+
 from Models.Session import Session
 from db import db
 
@@ -27,6 +29,38 @@ class SessionController:
             return jsonify([session.as_dict() for session in sessions])
         except Exception as e:
             return jsonify({'error': f"Failed to fetch sessions: {str(e)}"}), 500
+
+    @staticmethod
+    def get_current_session():
+        try:
+            # Get the last added session (assuming higher 'id' means newer)
+            #session = Session.query.filter_by(isDeleted=False).order_by(Session.id.desc()).first()
+            currentSession=Session.query.filter_by(isActive=True).first()
+
+            if currentSession:
+                return jsonify(currentSession.as_dict())
+            else:
+                return jsonify({'message': 'No active session found'}), 404
+        except Exception as e:
+            return jsonify({'error': f"Failed to fetch current session: {str(e)}"}), 500
+
+    @staticmethod
+    def set_active_session(session_id):
+        try:
+            # Set all sessions to inactive first
+            Session.query.update({Session.isActive: False})
+            db.session.commit()
+
+            # Activate the selected session
+            session = Session.query.get(session_id)
+            if session:
+                session.isActive = True
+                db.session.commit()
+                return jsonify({'message': 'Session activated successfully'}), 200
+            else:
+                return jsonify({'error': 'Session not found'}), 404
+        except Exception as e:
+            return jsonify({'error': str(e)}), 500
 
     @staticmethod
     def get_session_by_id(sid):

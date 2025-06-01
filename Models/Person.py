@@ -17,10 +17,10 @@ class Person(db.Model):
 
         return {
             'id': self.id,
-            'Name': self.Name,
-            'Phno': self.Phno,
-            'Password': self.Password,
-            'Profile_Url': self.Profile_Url,
+            'name': self.Name,
+            'phno': self.Phno,
+            'password': self.Password,
+            'profile_Url': self.Profile_Url,
             'isDeleted': self.isDeleted
         }
 

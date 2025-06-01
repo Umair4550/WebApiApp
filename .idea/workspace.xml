@@ -5,19 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d70016d4-9586-4c1a-9caf-7e15b65d4f50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Integation  via whatsapp/sendmsg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/gpt4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voice Task/espeak v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voice Task/pyttsx3 V1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voice Task/speach to text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voice Task/voice espeak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voice Task/vosk wave input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voice Task/whisper v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ChatBot Api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ChatBot Api.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/Controllers/BertController.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/Controllers/category_controller.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/Controllers/chat_controller.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/Controllers/person_controller.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/Controllers/program_controller.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/Controllers/session_controller.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/Models/BertModel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/Models/DbModels.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/db.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/routes/BertRoutrs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/routes/person_routes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.py" beforeDir="false" afterPath="$PROJECT_DIR$/App.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/CategoryController.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/CategoryController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/ChatController.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/ChatController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/KnowledgeBaseController.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/KnowledgeBaseController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/PersonController.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/PersonController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/ProgramController.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/ProgramController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/SessionController.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/SessionController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Chat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Chat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/KnowledgeBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models/KnowledgeBase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/ModelEmbedding/BertEmbeddingModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models/ModelEmbedding/BertEmbeddingModel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Person.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Person.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Program.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Session.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routes/CategoryRoutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Routes/CategoryRoutes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routes/ChatRoutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Routes/ChatRoutes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routes/KnowledgeBaseRoutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Routes/KnowledgeBaseRoutes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routes/PersonRoutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Routes/PersonRoutes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routes/ProgramRoutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Routes/ProgramRoutes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routes/SessionRoutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Routes/SessionRoutes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +51,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Umair4550"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Umair4550&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Umair4550/WebApiApp",
-    "accountId": "2ac6b380-bbdb-48c2-ad95-f74de6423947"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Umair4550/WebApiApp&quot;,
+    &quot;accountId&quot;: &quot;2ac6b380-bbdb-48c2-ad95-f74de6423947&quot;
   }
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -57,16 +77,81 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.AnswerRoutes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.App.executor&quot;: &quot;Run&quot;,
+    &quot;Python.App.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BertAnswerGeneration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BertAnswerRoutes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BertEmbeddingModel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Chat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ChatController.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ChatRoutes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KnowledgeBase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KnowledgeBaseController.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KnowledgeBaseRoutes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PersonController.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PersonRoutes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Session.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SessionController.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SessionRoutes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VoiceToTextOpusFile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VoiceToTextUsingWavFile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.espeak v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.opus to wav file conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pyttsx3 V1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pyttsx3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sendmsg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.speach to text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.training_analyzer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uploadimages.executor&quot;: &quot;Run&quot;,
+    &quot;Python.voice espeak.executor&quot;: &quot;Run&quot;,
+    &quot;Python.voice to text real time input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vosk wave input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.whisper v1.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/PycharmProjects/ChatBot Api&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/FYP Python Work/ChatBot Api&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\FYP Python Work\ChatBot Api" />
+      <recent name="C:\Users\hp\FYP Python Work\ChatBot Api\Voice Task" />
       <recent name="C:\Users\hp\PycharmProjects\ChatBot Api" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ChatBot Api" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Voice Task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Voice Task/VoiceToTextUsingWavFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.App.py" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -85,5 +170,16 @@
       <updated>1734624662305</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

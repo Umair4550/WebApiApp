@@ -3,7 +3,6 @@ from sympy import false
 
 from Models.Category import Category
 from Models.Chat import Chat
-from Models.Program import Program
 from Models.Session import Session
 from db import db
 from sqlalchemy import func
@@ -38,19 +37,18 @@ class ChatController:
     def add_chat():
         try:
             data = request.json
-
-            time_str = data.get('Time')
+            time_str = data.get('time')
             parsed_time = datetime.strptime(time_str, "%H:%M:%S").time() if time_str else None
 
             new_chat = Chat(
-                Question=data.get('Question'),
-                Answer=data.get('Answer'),
+                Question=data.get('question'),
+                Answer=data.get('answer'),
                 Time=parsed_time,
-                Date=data.get('Date'),
-                Person_Id=data.get('Person_Id'),
-                Session_Id=data.get('Session_Id'),
-                Program_Id=data.get('Program_Id'),
-                Category_id=data.get('Category_id')
+                Date=data.get('date'),
+                Person_Id=data.get('person_Id'),
+                Session_Id=data.get('session_Id'),
+                type=data.get('type'),
+                Category_id=data.get('category_id')
             )
             db.session.add(new_chat)
             db.session.commit()
@@ -65,17 +63,17 @@ class ChatController:
             chat = Chat.query.get(cid)
             if chat:
                 # Parse the Time field
-                time_str = data.get('Time')
+                time_str = data.get('time')
                 parsed_time = datetime.strptime(time_str, "%H:%M:%S").time() if time_str else chat.Time
 
-                chat.Question = data.get('Question', chat.Question)
-                chat.Answer = data.get('Answer', chat.Answer)
+                chat.Question = data.get('question', chat.Question)
+                chat.Answer = data.get('answer', chat.Answer)
                 chat.Time = parsed_time
-                chat.Date = data.get('Date', chat.Date)
-                chat.Person_Id = data.get('Person_Id', chat.Person_Id)
-                chat.Session_Id = data.get('Session_Id', chat.Session_Id)
-                chat.Program_Id = data.get('Program_Id', chat.Program_Id)
-                chat.Category_id = data.get('Category_id', chat.Category_id)
+                chat.Date = data.get('date', chat.Date)
+                chat.Person_Id = data.get('person_Id', chat.Person_Id)
+                chat.Session_Id = data.get('session_Id', chat.Session_Id)
+
+                chat.Category_id = data.get('category_id', chat.Category_id)
                 db.session.commit()
                 return jsonify({'message': 'Chat updated successfully!', 'chat': chat.as_dict()})
             else:
@@ -197,28 +195,28 @@ class ChatController:
 
         except Exception as e:
             return jsonify({'error': str(e)}), 500
-
-    @staticmethod
-    def categoryreportbyprogram(program_title):
-        try:
-            # Query to count chats grouped by Category_id and include the category title
-            category_counts = db.session.query(
-                Chat.Category_id,
-                func.count(Chat.id).label('total_chats'),  # Use Chat.id if that's the correct field for counting
-                Category.title
-            ).join(Category).join(Program).filter(Program.name == program_title).group_by(Chat.Category_id,
-                                                                                           Category.title).all()
-
-            # Prepare the response
-            return jsonify([{
-                'category_id': category_id,
-                'category_title': title,
-                'total_chats': total_chats
-            } for category_id, total_chats, title in category_counts])
-
-        except Exception as e:
-            return jsonify({'error': str(e)}), 500
-
+    #
+    # @staticmethod
+    # def categoryreportbyprogram(program_title):
+    #     try:
+    #         # Query to count chats grouped by Category_id and include the category title
+    #         category_counts = db.session.query(
+    #             Chat.Category_id,
+    #             func.count(Chat.id).label('total_chats'),  # Use Chat.id if that's the correct field for counting
+    #             Category.title
+    #         ).join(Category).join(Program).filter(Program.name == program_title).group_by(Chat.Category_id,
+    #                                                                                        Category.title).all()
+    #
+    #         # Prepare the response
+    #         return jsonify([{
+    #             'category_id': category_id,
+    #             'category_title': title,
+    #             'total_chats': total_chats
+    #         } for category_id, total_chats, title in category_counts])
+    #
+    #     except Exception as e:
+    #         return jsonify({'error': str(e)}), 500
+    #
     @staticmethod
     def sessionreport():
         try:
@@ -231,27 +229,27 @@ class ChatController:
         except Exception as e:
             return jsonify({'error': str(e)}), 500
 
-    @staticmethod
-    def sessionreportbyprogram(program_title):
-        try:
-            print(f"Searching for program: {program_title}")
-            session_counts = db.session.query(Chat.Session_Id, func.count(Chat.id), Session.title).join(
-                Session).join(Program).filter(Program.name == program_title).group_by(Chat.Session_Id,
-                                                                                      Session.title).all()
-
-            if not session_counts:
-                print("No sessions found for this program.")
-
-            return jsonify(
-                [
-                    {'session_id': session_id, 'session_title': title, 'total_chats': count}
-                    for session_id, count, title
-                    in session_counts
-                ])
-        except Exception as e:
-            return jsonify({'error': str(e)}), 500
-
-    # Additional Useful Actions
+    # @staticmethod
+    # def sessionreportbyprogram(program_title):
+    #     try:
+    #         print(f"Searching for program: {program_title}")
+    #         session_counts = db.session.query(Chat.Session_Id, func.count(Chat.id), Session.title).join(
+    #             Session).join(Program).filter(Program.name == program_title).group_by(Chat.Session_Id,
+    #                                                                                   Session.title).all()
+    #
+    #         if not session_counts:
+    #             print("No sessions found for this program.")
+    #
+    #         return jsonify(
+    #             [
+    #                 {'session_id': session_id, 'session_title': title, 'total_chats': count}
+    #                 for session_id, count, title
+    #                 in session_counts
+    #             ])
+    #     except Exception as e:
+    #         return jsonify({'error': str(e)}), 500
+    #
+    # # Additional Useful Actions
 
     @staticmethod
     def get_chat_summary():
@@ -273,7 +271,7 @@ class ChatController:
         except Exception as e:
             return jsonify({'error': str(e)}), 500
 
-    from datetime import datetime
+
 
     @staticmethod
     def get_chats_by_date_range(start_date, end_date):
@@ -287,5 +285,51 @@ class ChatController:
 
             # Return the result as JSON
             return jsonify([chat.as_dict() for chat in chats])
+        except Exception as e:
+            return jsonify({'error': str(e)}), 500
+
+    @staticmethod
+    def categoryCount():
+        try:
+            # LEFT OUTER JOIN Category -> Chat
+            category_counts = db.session.query(
+                Category.id.label('category_id'),
+                Category.title.label('category_title'),
+                func.coalesce(func.count(Chat.id), 0).label('total_chats')
+            ).outerjoin(Chat, Chat.Category_id == Category.id) \
+                .filter(Category.isDeleted == False) \
+                .group_by(Category.id, Category.title) \
+                .order_by(Category.id) \
+                .all()
+
+            return jsonify([
+                {
+                    'category_id': category_id,
+                    'category_title': category_title,
+                    'total_chats': total_chats
+                }
+                for category_id, category_title, total_chats in category_counts
+            ])
+
+        except Exception as e:
+            return jsonify({'error': str(e)}), 500
+
+    @staticmethod
+    def category_report_by_session(sid):
+        try:
+            # Query to count chats grouped by Category_id and include the category title, filtered by session id
+            category_counts = db.session.query(
+                Chat.Category_id,
+                func.count(Chat.id).label('total_chats'),
+                Category.title
+            ).join(Category).filter(Chat.Session_Id == sid).group_by(Chat.Category_id, Category.title).all()
+
+            # Prepare the response in the expected format
+            return jsonify([{
+                'category_id': category_id,
+                'category_title': title,
+                'total_chats': total_chats
+            } for category_id, total_chats, title in category_counts])
+
         except Exception as e:
             return jsonify({'error': str(e)}), 500

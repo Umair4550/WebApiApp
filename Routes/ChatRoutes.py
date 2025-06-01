@@ -110,12 +110,12 @@ def get_total_chats_by_category_title():
         return jsonify({'error': str(e)}), 500
 
 # Route to get total chats by category title for a specific program
-@chat_bp.route('/chat/categoryReport/<string:program_title>', methods=['GET'])
-def get_total_chats_by_category_title_for_program(program_title):
-    try:
-        return ChatController.categoryreportbyprogram(program_title)
-    except Exception as e:
-        return jsonify({'error': str(e)}), 500
+# @chat_bp.route('/chat/categoryReport/<string:program_title>', methods=['GET'])
+# def get_total_chats_by_category_title_for_program(program_title):
+#     try:
+#         return ChatController.categoryreportbyprogram(program_title)
+#     except Exception as e:
+#         return jsonify({'error': str(e)}), 500
 
 # Route to get total chats by session title across all categories
 @chat_bp.route('/chat/sessionReport', methods=['GET'])
@@ -125,13 +125,13 @@ def get_total_chats_by_session_title_across_all_categories():
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
-# Route to get total chats by session title for a specific program
-@chat_bp.route('/chat/sessionReport/<string:program_title>', methods=['GET'])
-def get_total_chats_by_session_title_for_program(program_title):
-    try:
-        return ChatController.sessionreportbyprogram(program_title)
-    except Exception as e:
-        return jsonify({'error': str(e)}), 500
+# # Route to get total chats by session title for a specific program
+# @chat_bp.route('/chat/sessionReport/<string:program_title>', methods=['GET'])
+# def get_total_chats_by_session_title_for_program(program_title):
+#     try:
+#         return ChatController.sessionreportbyprogram(program_title)
+#     except Exception as e:
+#         return jsonify({'error': str(e)}), 500
 
 # Route to get chat summary
 @chat_bp.route('/chat/summary', methods=['GET'])
@@ -146,5 +146,12 @@ def get_chat_summary():
 def get_chats_by_date_range(start_date, end_date):
     try:
         return ChatController.get_chats_by_date_range(start_date, end_date)
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@chat_bp.route('/chat/categoryReport/<int:sid>', methods=['GET'])
+def get_categoryReport_sid(sid):
+    try:
+        return ChatController.category_report_by_session(sid)
     except Exception as e:
         return jsonify({'error': str(e)}), 500

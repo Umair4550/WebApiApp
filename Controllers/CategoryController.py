@@ -35,6 +35,13 @@ class CategoryController:
             return jsonify(category.as_dict())
         except Exception as e:
             return jsonify({'error': str(e)}), 500
+    @staticmethod
+    def get_category_id(name):
+        try:
+            category = Category.query.filter_by(title=name,isDeleted=False).first()
+            return jsonify(category.as_dict())
+        except Exception as e:
+            return jsonify({'error': str(e)}), 500
 
     @staticmethod
     def update_category(id):

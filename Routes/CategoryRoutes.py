@@ -24,6 +24,12 @@ def get_category_by_id(cid):
         return CategoryController.get_category_by_id(cid)
     except Exception as e:
         return jsonify({'error': str(e)}), 500
+@category_bp.route('/category/<string:name>', methods=['GET'])
+def get_category_id(name):
+    try:
+        return CategoryController.get_category_id(name)
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
 @category_bp.route('/category/<int:cid>', methods=['PUT'])
 def update_category(cid):
